@@ -4,4 +4,4 @@ An Processing sketch (to be cleaned) used for some visualisation of the Hopf Fib
 
 Some examples what it does look like: 
 
-# <img src="./Ex1.jpg" width="200">  <img src="./Ex3.jpg" width="240">  
+# <img src="./Ex1.jpg" width="210">  <img src="./Ex3.jpg" width="240">  
